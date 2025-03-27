@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo Suma
 		Definir num1, num2, resultado Como Entero
 		Escribir "Ingrese el primer número: "
 		Leer num1
